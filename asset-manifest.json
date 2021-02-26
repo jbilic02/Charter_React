@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Charter_React/static/css/main.3cb64db4.chunk.css",
+    "main.js": "/Charter_React/static/js/main.de4b4e73.chunk.js",
+    "main.js.map": "/Charter_React/static/js/main.de4b4e73.chunk.js.map",
+    "runtime-main.js": "/Charter_React/static/js/runtime-main.f31fe55e.js",
+    "runtime-main.js.map": "/Charter_React/static/js/runtime-main.f31fe55e.js.map",
+    "static/js/2.1d2876e0.chunk.js": "/Charter_React/static/js/2.1d2876e0.chunk.js",
+    "static/js/2.1d2876e0.chunk.js.map": "/Charter_React/static/js/2.1d2876e0.chunk.js.map",
+    "index.html": "/Charter_React/index.html",
+    "static/css/main.3cb64db4.chunk.css.map": "/Charter_React/static/css/main.3cb64db4.chunk.css.map",
+    "static/js/2.1d2876e0.chunk.js.LICENSE.txt": "/Charter_React/static/js/2.1d2876e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31fe55e.js",
+    "static/js/2.1d2876e0.chunk.js",
+    "static/css/main.3cb64db4.chunk.css",
+    "static/js/main.de4b4e73.chunk.js"
+  ]
+}
