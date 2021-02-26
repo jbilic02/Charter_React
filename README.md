@@ -1,4 +1,4 @@
-# https://jbilic02.github.io/Charter_React/
+https://jbilic02.github.io/Charter_React/
 
 ![c1](https://user-images.githubusercontent.com/56175479/109338413-88ad7b00-7866-11eb-8489-d387ab3cbdae.png)
 ![c2](https://user-images.githubusercontent.com/56175479/109338431-8d722f00-7866-11eb-9208-cf2ced76e642.png)
