@@ -1,0 +1,74 @@
+
+
+.products {
+  box-sizing: border-box;
+  background-image: url('https://chemsec.org/app/uploads/2019/02/Lost-at-SEA.jpg');
+  
+}
+.products__container {
+  float: left;
+  width: 24%;
+  padding: 12px;
+}
+
+
+.products__items {
+  list-style-type: none;
+  /*border: 1px solid #eee;*/
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+/* Add shadows on hover */
+.products__items:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+/* Pricing header */
+.products__items .header {
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+}
+.products__items .small {
+  font-size: smaller;
+}
+
+/* List items */
+.products__items li {
+  /*border-bottom: 1px solid #eee;*/
+  padding: 20px;
+  text-align: center;
+}
+
+/* Grey list item */
+.products__items .grey {
+  background-color: none;
+  font-size: 20px;
+}
+.products__items .aa {
+  background-color: none;
+  font-size: 20px;
+}
+
+/* "Rent" button */
+.button {
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+
+/* Change the width of the three columns to 100%
+(to stack horizontally on small screens) */
+@media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+  }
+}

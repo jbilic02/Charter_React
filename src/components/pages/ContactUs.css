@@ -1,0 +1,30 @@
+.contact-us {
+  background-image: 
+  url('http://apoliticni.hr/wp-content/uploads/2014/08/Trogir-city.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  padding: 6rem;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center; 
+}
+
+.contact-us__items {
+  margin-bottom: 15px;
+}
+
+p.text {
+  background-color: black;
+  color: #fff;
+  font-style: italic;
+  margin-top:  250px;
+}
+
+mark {
+  background-color: black;
+  color: #fff;
+}
